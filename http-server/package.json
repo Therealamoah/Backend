@@ -1,0 +1,11 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "A node js with http",
+  "main": "index.js",
+  "author": "Collins",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
